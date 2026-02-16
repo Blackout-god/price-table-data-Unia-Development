@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ns2:datasets xmlns:ns2="urn:otwarte-dane:harvester:1.13">
   <dataset status="published">
-    <extIdent>d758f2dd-fcb9-4931-98e0-f6b23e9b4673</extIdent>
+    <extIdent>18b5f7ab-8088-4cc2-a46c-3fc33241e2ec</extIdent>
     <title>
-      <polish>Ceny ofertowe mieszkań dewelopera Unia Development 2026-02-16</polish>
-      <english>Offer prices Unia Sp. z o.o. 2026-02-16</english>
+      <polish>Ceny ofertowe mieszkań dewelopera Unia Development 2026-02-17</polish>
+      <english>Offer prices Unia Sp. z o.o. 2026-02-17</english>
     </title>
     <description>
-      <polish>Dane o cenach mieszkań Unia Sp. z o.o. na dzień 2026-02-16</polish>
-      <english>Real estate prices data Unia Sp. z o.o. for 2026-02-16</english>
+      <polish>Dane o cenach mieszkań Unia Sp. z o.o. na dzień 2026-02-17</polish>
+      <english>Real estate prices data Unia Sp. z o.o. for 2026-02-17</english>
     </description>
     <updateFrequency>daily</updateFrequency>
     <categories>ECON</categories>
     <resource>
-      <extIdent>resource-csv-2026-02-16</extIdent>
+      <extIdent>resource-csv-2026-02-17</extIdent>
       <url>https://raw.githubusercontent.com/Blackout-god/price-table-data-Unia-Development/main/ceny_inwestycje.csv</url>
       <title>
         <polish>Ceny mieszkań CSV</polish>
@@ -24,7 +24,7 @@
         <english>Prices table</english>
       </description>
       <availability>local</availability>
-      <dataDate>2026-02-16</dataDate>
+      <dataDate>2026-02-17</dataDate>
       <specialSigns>
          <specialSign>X</specialSign>
       </specialSigns>
